@@ -12,8 +12,8 @@
    <img src="https://img.shields.io/badge/Harmony-%E6%95%99%E8%82%B2%E5%85%B3%E6%80%80-pink">
   </p>
   <p>
-  <a href = "######">Harmony</a><br>
-  <img src = "https://user-images.githubusercontent.com/79436937/194698200-f51beffe-fd0c-4f24-85f6-a10bd312341e.jpg">
+  <a href = "######"><h4>1.Harmony</h4></a><br>
+  <img height = "10%" width = "100%" src = "https://user-images.githubusercontent.com/79436937/194698200-f51beffe-fd0c-4f24-85f6-a10bd312341e.jpg">
   </p>
 <!--   //<img src = "https://user-images.githubusercontent.com/79436937/194697710-6a83625e-181f-44cb-b676-d08abc7a2240.png">-->
   
