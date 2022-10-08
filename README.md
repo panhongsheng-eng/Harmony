@@ -11,6 +11,10 @@
    <img src="https://img.shields.io/badge/Harmony-%E5%BD%B1%E9%9F%B3%E5%A8%B1%E4%B9%90-blue">
    <img src="https://img.shields.io/badge/Harmony-%E6%95%99%E8%82%B2%E5%85%B3%E6%80%80-pink">
   </p>
-  <img src = "http://doxygen.weharmonyos.com/kernel_2common_2main_8c_a6e2a1207f95c6aaaf4a26e8e68a7a1e1_cgraph.png">
+  <p>
+  <a href = "######">HUAWEI-Harmony ioc</a><br>
+  <img src = "https://clubimg.club.vmall.com/data/attachment/forum/202106/02/190236ugyqc3qhcb1vykf6.jpg">
+  </p>
+  <img src = "https://user-images.githubusercontent.com/79436937/194697710-6a83625e-181f-44cb-b676-d08abc7a2240.png">
   
   
