@@ -11,5 +11,6 @@
    <img src="https://img.shields.io/badge/Harmony-%E5%BD%B1%E9%9F%B3%E5%A8%B1%E4%B9%90-blue">
    <img src="https://img.shields.io/badge/Harmony-%E6%95%99%E8%82%B2%E5%85%B3%E6%80%80-pink">
   </p>
+  <img src = "http://doxygen.weharmonyos.com/kernel_2common_2main_8c_a6e2a1207f95c6aaaf4a26e8e68a7a1e1_cgraph.png">
   
   
