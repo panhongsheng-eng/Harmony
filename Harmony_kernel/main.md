@@ -67,3 +67,28 @@ LITE_OS_SEC_TEXT_INIT INT32 main(VOID)//由主CPU执行,默认0号CPU 为主CPU
 LITE_OS_SEC_TEXT_INIT INT32 	main (VOID)
  	内核入口函数,由汇编调用,见于reset_vector_up.S 和 reset_vector_mp.S up指单核CPU, mp指多核CPU bl main
  </p>
+ <h2>3.函数说明</h2>
+ <p>
+ ◆ main()
+LITE_OS_SEC_TEXT_INIT INT32 main	(	VOID 		)	
+内核入口函数,由汇编调用,见于reset_vector_up.S 和 reset_vector_mp.S up指单核CPU, mp指多核CPU bl main
+
+返回
+LITE_OS_SEC_TEXT_INIT
+在文件 main.c 第 41 行定义.
+
+{
+    UINT32 ret = OsMain();
+    if (ret != LOS_OK) {
+        return (INT32)LOS_NOK;
+    }
+ 
+    CPU_MAP_SET(0, OsHwIDGet());//设置主CPU映射信息
+ 
+    OsSchedStart();//调度开始
+ 
+    while (1) {
+        __asm volatile("wfi");//WFI: wait for Interrupt 等待中断，即下一次中断发生前都在此hold住不干活
+    }
+}
+ </p>
