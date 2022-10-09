@@ -2,7 +2,7 @@
  <img src = "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=18D4F7&width=435&lines=Harmony+main%E5%87%BD%E6%95%B0%E5%88%86%E6%9E%90-Huawei%EF%BC%81">
   </p>
   
- <h2 align = "center">源码</h2>
+ <h2>1.源码</h2>
   <p align = "center">
  
  /*
@@ -61,3 +61,9 @@ LITE_OS_SEC_TEXT_INIT INT32 main(VOID)//由主CPU执行,默认0号CPU 为主CPU
     }
 }
 </p>
+ <h2>2.函数</h2>
+ <hr>
+ <p>函数
+LITE_OS_SEC_TEXT_INIT INT32 	main (VOID)
+ 	内核入口函数,由汇编调用,见于reset_vector_up.S 和 reset_vector_mp.S up指单核CPU, mp指多核CPU bl main
+ </p>
