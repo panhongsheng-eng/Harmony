@@ -68,7 +68,7 @@ LITE_OS_SEC_TEXT_INIT INT32 	main (VOID)
  	内核入口函数,由汇编调用,见于reset_vector_up.S 和 reset_vector_mp.S up指单核CPU, mp指多核CPU bl main
  </p>
  <h2>3.函数说明</h2>
- <p>
+ <p color = "red">
  ◆ main()
 LITE_OS_SEC_TEXT_INIT INT32 main	(	VOID 		)	
 内核入口函数,由汇编调用,见于reset_vector_up.S 和 reset_vector_mp.S up指单核CPU, mp指多核CPU bl main
