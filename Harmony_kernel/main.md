@@ -92,3 +92,7 @@ LITE_OS_SEC_TEXT_INIT
     }
 }
  </p>
+  <h2>4.函数调用图</h2>
+ <p align = "center">
+ <img src = "https://user-images.githubusercontent.com/79436937/194769404-276e15d1-83fa-4eb9-b380-60684957756e.png">
+ </p>
