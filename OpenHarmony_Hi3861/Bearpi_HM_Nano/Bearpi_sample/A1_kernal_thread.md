@@ -102,9 +102,9 @@ static void Thread_example(void)
 示例代码编译烧录代码后，按下开发板的RESET按键，通过串口助手查看日志，Thread1和Thread2会交替打印信息
 <hr>
 <br>
-This is BearPi-HM_Nano Thread1----2
-This is BearPi-HM_Nano Thread2----4
-This is BearPi-HM_Nano Thread2----5
-This is BearPi-HM_Nano Thread1----3
-This is BearPi-HM_Nano Thread2----6
-This is BearPi-HM_Nano Thread2----7
+This is BearPi-HM_Nano Thread1----2<br>
+This is BearPi-HM_Nano Thread2----4<br>
+This is BearPi-HM_Nano Thread2----5<br>
+This is BearPi-HM_Nano Thread1----3<br>
+This is BearPi-HM_Nano Thread2----6<br>
+This is BearPi-HM_Nano Thread2----7<br>
