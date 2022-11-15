@@ -17,5 +17,6 @@
   </p>
 <!--   //<img src = "https://user-images.githubusercontent.com/79436937/194697710-6a83625e-181f-44cb-b676-d08abc7a2240.png">-->
 <p>2022-11.4 <h3><a herf = "#">ArkUI</a></h3></p>
-<p">鸿蒙开发套件</p>
+<p">鸿蒙开发套件</p><br>
+<p><img  src = 'https://www.harmonyos.com/resource/image/img_DLP_banner_preview.png'></p>
   
