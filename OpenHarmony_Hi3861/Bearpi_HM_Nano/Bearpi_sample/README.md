@@ -49,7 +49,7 @@ BearPi-HM Nano提供多个案例，案例以A、B、C、D进行不同类别进�
 
 ## 五、源码目录简介
 
-小熊派的源码目录延续OpenHarmony官方目录结构，以下是源码目录的说明：
+延续OpenHarmony官方目录结构，以下是源码目录的说明：
 
 <a name="table3815144702820"></a>
 <table><thead align="left"><tr id="row198162047192810"><th class="cellrowborder" valign="top" width="50%" id="mcps1.2.3.1.1"><p id="p690319291299"><a name="p690319291299"></a><a name="p690319291299"></a>目录名</p>
