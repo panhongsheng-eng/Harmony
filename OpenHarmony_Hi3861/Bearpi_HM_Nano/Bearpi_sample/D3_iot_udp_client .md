@@ -125,4 +125,4 @@ static void UDPClientTask(void)
 192.168.0.175:8888=>Hello! BearPi-HM_nano UDP Client!
 ```
 
-![UDP发送数据](/applications/BearPi/BearPi-HM_Nano/docs/figures/D3_iot_udp_client/UDP发送数据.png)
+![UDP发送数据]<img src = "https://gitee.com/bearpi/bearpi-hm_nano/raw/master/applications/BearPi/BearPi-HM_Nano/docs/figures/D3_iot_udp_client/UDP%E5%8F%91%E9%80%81%E6%95%B0%E6%8D%AE.png">
