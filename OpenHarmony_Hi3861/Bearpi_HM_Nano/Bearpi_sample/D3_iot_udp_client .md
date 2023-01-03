@@ -117,7 +117,7 @@ static void UDPClientTask(void)
 
 使用 Socket tool 创建UDP服务端用于测试。
 
-![创建UDP服务端](/applications/BearPi/BearPi-HM_Nano/docs/figures/D3_iot_udp_client/创建UDP服务端.png)
+![创建UDP服务端]<img src = "https://gitee.com/bearpi/bearpi-hm_nano/raw/master/applications/BearPi/BearPi-HM_Nano/docs/figures/D3_iot_udp_client/%E5%88%9B%E5%BB%BAUDP%E6%9C%8D%E5%8A%A1%E7%AB%AF.png">
 
 示例代码编译烧录代码后，按下开发板的RESET按键，在数据发送窗口输入要发送的数据，点击发送后开发板会回复固定消息，且开发板收到消息后会通过日志打印出来。
 
