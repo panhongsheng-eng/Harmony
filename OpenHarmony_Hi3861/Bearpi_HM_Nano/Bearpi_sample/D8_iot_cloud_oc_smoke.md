@@ -1,7 +1,8 @@
 # BearPi-HM_Nano开发板智慧烟感案例开发
 本示例将演示如何在BearPi-HM_Nano开发板上使用MQTT协议连接华为IoT平台，使用E53_SF1 智慧烟感扩展板与 BearPi-HM_Nano 开发板实现智慧烟感的案例。
+<p align  = "center">
+<img  src = "https://gitee.com/bearpi/bearpi-hm_nano/raw/master/applications/BearPi/BearPi-HM_Nano/docs/figures/D8_iot_cloud_oc_smoke/E53_SF1%E5%AE%89%E8%A3%85.png"></p>
 
-<img src = "https://gitee.com/bearpi/bearpi-hm_nano/raw/master/applications/BearPi/BearPi-HM_Nano/docs/figures/D8_iot_cloud_oc_smoke/E53_SF1%E5%AE%89%E8%A3%85.png">
 # 华为IoT平台 API
 
 
