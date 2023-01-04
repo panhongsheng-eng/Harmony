@@ -340,9 +340,10 @@ EXIT_JSONPARSE:
 
 在华为云首页单击产品，找到IoT物联网，单击设备接入IoTDA 并单击立即使用。
 
-![](/applications/BearPi/BearPi-HM_Nano/docs/figures/D6_iot_cloud_oc/登录平台01.png "登录平台")
 
-![](/applications/BearPi/BearPi-HM_Nano/docs/figures/D6_iot_cloud_oc/登录平台02.png "登录平台")
+
+<img src = "https://gitee.com/bearpi/bearpi-hm_nano/raw/master/applications/BearPi/BearPi-HM_Nano/docs/figures/D6_iot_cloud_oc/%E7%99%BB%E5%BD%95%E5%B9%B3%E5%8F%B001.png">
+<img src = "https://gitee.com/bearpi/bearpi-hm_nano/raw/master/applications/BearPi/BearPi-HM_Nano/docs/figures/D6_iot_cloud_oc/%E7%99%BB%E5%BD%95%E5%B9%B3%E5%8F%B002.png">
 
 ### 创建产品
 
@@ -354,23 +355,22 @@ EXIT_JSONPARSE:
 
 选中侧边栏产品页，单击右上角“创建产品”
 
-![](/applications/BearPi/BearPi-HM_Nano/docs/figures/D6_iot_cloud_oc/创建产品01.png "创建产品")
+<img src = "https://gitee.com/bearpi/bearpi-hm_nano/raw/master/applications/BearPi/BearPi-HM_Nano/docs/figures/D6_iot_cloud_oc/%E5%88%9B%E5%BB%BA%E4%BA%A7%E5%93%8101.png">
 
 在页面中选中所属资源空间，并且按要求填写产品名称，选中MQTT协议，数据格式为JSON，并填写厂商名称，在下方模型定义栏中选择所属行业以及添加设备类型，并单击右下角“立即创建”如图：
 
-![](/applications/BearPi/BearPi-HM_Nano/docs/figures/D6_iot_cloud_oc/创建产品02.png "创建产品")
+<img src = "https://gitee.com/bearpi/bearpi-hm_nano/raw/master/applications/BearPi/BearPi-HM_Nano/docs/figures/D6_iot_cloud_oc/%E5%88%9B%E5%BB%BA%E4%BA%A7%E5%93%8102.png">
 
 创建完成后，在产品页会自动生成刚刚创建的产品，单击“查看”可查看创建的具体信息。
 
-![](/applications/BearPi/BearPi-HM_Nano/docs/figures/D6_iot_cloud_oc/创建产品03.png "创建产品")
+<img src = "https://gitee.com/bearpi/bearpi-hm_nano/raw/master/applications/BearPi/BearPi-HM_Nano/docs/figures/D6_iot_cloud_oc/%E5%88%9B%E5%BB%BA%E4%BA%A7%E5%93%8103.png">
 
 
 单击产品详情页的自定义模型，在弹出页面中新增服务
 
 服务ID：`Agriculture`(必须一致)
 
-服务类型：`Senser`(可自定义)
-![](/applications/BearPi/BearPi-HM_Nano/docs/figures/D6_iot_cloud_oc/创建产品04.png "创建产品")
+<img src = "https://gitee.com/bearpi/bearpi-hm_nano/raw/master/applications/BearPi/BearPi-HM_Nano/docs/figures/D6_iot_cloud_oc/%E5%88%9B%E5%BB%BA%E4%BA%A7%E5%93%8104.png">
 
 在“Agriculture”的下拉菜单下点击“添加属性”填写相关信息“Temperature”，
 “Humidity”，“Luminance”，“LightStatus”，“MotorStatus”。
