@@ -12,7 +12,7 @@ BearPi-HM Nano提供多个案例，案例以A、B、C、D进行不同类别进�
 
 | 编号 | 类别   | 例程名           | 说明                                                         |
 | ---- | ------ | ---------------- | ------------------------------------------------------------ |
-| A1   | 内核   | thread           |   [任务交替打印](/applications/BearPi/BearPi-HM_Nano/sample/A1_kernal_thread/README.md)  |
+| A1   | 内核   | thread           |   [任务交替打印](/https://github.com/panhongsheng-eng/Harmony/blob/main/OpenHarmony_Hi3861/Bearpi_HM_Nano/Bearpi_sample/A1_kernal_thread.md)  |
 | A2   | 内核   | timer            |  [定时器  ](/applications/BearPi/BearPi-HM_Nano/sample/A2_kernel_timer/README.md)                                                      |
 | A3   | 内核   | event            |   [事件](/applications/BearPi/BearPi-HM_Nano/sample/A3_kernel_event/README.md)|
 | A4   | 内核   | mutex            |   [互斥锁](/applications/BearPi/BearPi-HM_Nano/sample/A4_kernel_mutex/README.md)|
